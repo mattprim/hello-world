@@ -3,4 +3,4 @@ Just another repository
 
 Hi Humans!
 
-Mattprim here, let's go coding.
+mattprim here, let's go coding.
